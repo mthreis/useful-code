@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ProjectCyborg
+namespace UsefulCode
 {
     /// <summary>
     /// Bi-dimensional grid to store values, works like arrays (even with array-like accessors), but accepts negative indexes.
